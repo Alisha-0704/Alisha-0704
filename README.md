@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Alisha-0704
-- 👀 I’m interested in Cloud Computing.
-- 🌱 I’m currently learning linux.
-- 💞️ I’m looking to collaborate on c++ projects.
 - 📫 can contact via: geek07.alisha04@gmail.com
 
 <!---
